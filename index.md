@@ -1,9 +1,6 @@
 # Homepage of Ying Wang
 
 ## Personal Information
-#### Ying Wang
-#### Graduate
-#### Sun Yat-sen University
 <table border="0">
   <tr>
     <td width="75%">
@@ -17,8 +14,6 @@
     </td>
   </tr>
 </table>
-## Contact
-#### Email: ying.wang@nscc-gz.cn
 
 ## Research Interest
  - Re-Identification
