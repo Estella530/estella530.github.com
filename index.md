@@ -1,12 +1,11 @@
 # Homepage of Ying Wang
 
-## Personal Information
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Ying Wang</h1>
-      <p><b>Graduate</b></p>
-      <p><b>Sun Yat-sen University</b></p>
+      <p><b>Graduate from Sun Yat-sen University</b></p>
+      <p><b>Researcher in National SuperComputer Center in Guangzhou, China</b></p>
       <p><b>Email: ying.wang@nscc-gz.cn</b></p>
     </td>
     <td width="25%">
